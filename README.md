@@ -63,9 +63,5 @@ This project was created using the following technologies.
 - [Firebase](https://firebase.google.com/) User authentication & data storage.
 Used zustand( Simple State Management Solution) for state management.
 
-## Author
-- Github: [Rohankumarmenu](https://github.com/Rohankumarmenu)
-- Email: [rohankumarmenu@gmail.com]
 
- 
 
